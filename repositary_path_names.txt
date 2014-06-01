@@ -1,0 +1,9 @@
+path names:
+
+1) java repositary: origin
+
+2) java1 repositary: origin2
+
+3) Ruby repositary : rubyclodpath
+
+4) Jsp and html repositary: jsmandhtmlpath
